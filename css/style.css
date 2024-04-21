@@ -46,7 +46,7 @@
 
 .btn.btn-success,
 .btn.btn-secondary {
-    color: #22bb33;
+    color: #FFFFFF;
 }
 
 .btn-square {
@@ -197,7 +197,7 @@
     flex-direction: column;
     justify-content: center;
     text-align: center;
-    background: #22bb33;
+    background: #FFFFFF;
     box-shadow: 0 0 45px rgba(0, 0, 0, .08);
     transition: .5s;
 }
@@ -222,7 +222,7 @@
 .service-item:hover i,
 .service-item:hover h5,
 .service-item:hover p {
-    color: #22bb33 !important;
+    color: #FFFFFF !important;
 }
 
 
@@ -338,7 +338,7 @@
     z-index: 999;
     font-size: 30px;
     font-weight: normal;
-    color: #22bb33;
+    color: #FFFFFF;
     background: #000000;
     opacity: 1;
 }
@@ -380,7 +380,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    color: #22bb33;
+    color: #FFFFFF;
     background: var(--success);
     border-radius: 2px;
     font-size: 18px;
@@ -390,7 +390,7 @@
 .testimonial-carousel .owl-nav .owl-prev:hover,
 .testimonial-carousel .owl-nav .owl-next:hover {
     color: var(--success);
-    background: #22bb33;
+    background: #FFFFFF;
 }
 
 
@@ -434,7 +434,7 @@
     align-items: center;
     justify-content: center;
     color: var(--light);
-    border: 1px solid #22bb33;
+    border: 1px solid #FFFFFF;
     border-radius: 35px;
     transition: .3s;
 }
@@ -448,7 +448,7 @@
     margin-bottom: 5px;
     padding: 0;
     text-align: left;
-    color: #22bb33;
+    color: #FFFFFF;
     font-size: 15px;
     font-weight: normal;
     text-transform: capitalize;
