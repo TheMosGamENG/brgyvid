@@ -44,9 +44,9 @@
     transition: .5s;
 }
 
-.btn.btn-primary,
+.btn.btn-success,
 .btn.btn-secondary {
-    color: #FFFFFF;
+    color: #22bb33;
 }
 
 .btn-square {
@@ -80,7 +80,7 @@
 .navbar-dark .navbar-nav .nav-link {
     margin-right: 30px;
     padding: 25px 0;
-    color: #FFFFFF;
+    color: #22bb33;
     font-size: 15px;
     text-transform: uppercase;
     outline: none;
@@ -197,7 +197,7 @@
     flex-direction: column;
     justify-content: center;
     text-align: center;
-    background: #FFFFFF;
+    background: #22bb33;
     box-shadow: 0 0 45px rgba(0, 0, 0, .08);
     transition: .5s;
 }
@@ -222,7 +222,7 @@
 .service-item:hover i,
 .service-item:hover h5,
 .service-item:hover p {
-    color: #FFFFFF !important;
+    color: #22bb33 !important;
 }
 
 
@@ -338,7 +338,7 @@
     z-index: 999;
     font-size: 30px;
     font-weight: normal;
-    color: #FFFFFF;
+    color: #22bb33;
     background: #000000;
     opacity: 1;
 }
@@ -380,7 +380,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    color: #FFFFFF;
+    color: #22bb33;
     background: var(--success);
     border-radius: 2px;
     font-size: 18px;
@@ -390,7 +390,7 @@
 .testimonial-carousel .owl-nav .owl-prev:hover,
 .testimonial-carousel .owl-nav .owl-next:hover {
     color: var(--success);
-    background: #FFFFFF;
+    background: #22bb33;
 }
 
 
@@ -405,11 +405,11 @@
     border-color: var(--secondary) !important;
 }
 
-.team-item:hover .bg-primary {
+.team-item:hover .bg-success {
     background: var(--secondary) !important;
 }
 
-.team-item:hover .bg-primary i {
+.team-item:hover .bg-success i {
     color: var(--secondary) !important;
 }
 
@@ -434,7 +434,7 @@
     align-items: center;
     justify-content: center;
     color: var(--light);
-    border: 1px solid #FFFFFF;
+    border: 1px solid #22bb33;
     border-radius: 35px;
     transition: .3s;
 }
@@ -448,7 +448,7 @@
     margin-bottom: 5px;
     padding: 0;
     text-align: left;
-    color: #FFFFFF;
+    color: #22bb33;
     font-size: 15px;
     font-weight: normal;
     text-transform: capitalize;
